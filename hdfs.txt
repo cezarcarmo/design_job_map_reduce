@@ -1,0 +1,8 @@
+# Criar uma pasta no HDFS
+hdfs dfs -mkdir /clientes
+
+# Copiar o dataset para o HDFS
+hdfs dfs -put gastos-cliente.csv /clientes
+
+# Confirmar que o arquivo foi copiado
+hdfs dfs -ls /clientes
