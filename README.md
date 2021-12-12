@@ -1,2 +1,2 @@
-# design_job_map_reduce
+# Design Job de Mapeamento e Redução
 Design de um Job MapReduce para Gastos Totais por Cliente
